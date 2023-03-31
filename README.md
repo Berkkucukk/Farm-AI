@@ -10,3 +10,7 @@ We aim to make the process more efficient by detecting diseases from our planted
 
 [![FarmAI Video](https://github.com/Berkkucukk/Farm-AI/blob/main/images/IMG_3063.PNG?raw=true)](https://youtu.be/y2sNbQvlUWw)
 
+![IMAGE_ALT](https://github.com/Berkkucukk/Farm-AI/blob/main/images/main.png?raw=true)
+![IMAGE_ALT](https://github.com/Berkkucukk/Farm-AI/blob/main/images/image_taken.png?raw=true)
+![IMAGE_ALT](https://github.com/Berkkucukk/Farm-AI/blob/main/images/image_taken-1.png?raw=true)
+![IMAGE_ALT](https://github.com/Berkkucukk/Farm-AI/blob/main/images/crops.png?raw=true)
