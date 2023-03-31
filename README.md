@@ -8,4 +8,5 @@ At this point, soil classification and plant disease detection it will prevent t
 
 We aim to make the process more efficient by detecting diseases from our planted crop leaf pool and making improvement suggestions.
 
-[![](https://youtu.be/y2sNbQvlUWw)]
+[![FarmAI Video](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://youtu.be/y2sNbQvlUWw)
+
